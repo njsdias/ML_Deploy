@@ -1,0 +1,7 @@
+numpy==1.19.2
+pandas==1.1.2
+pydantic==0.30
+uvicorn==0.8.6
+lightgbm==2.2.1
+fastapi==0.35.0
+requests==2.24.0
