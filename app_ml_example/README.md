@@ -65,6 +65,6 @@ your OS. The first step is create a Docker file.
 
 **[For more details](https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf)**
 
-**[FastAPI example](https://github.com/cosmic-cortex)**
+**[FastAPI example](https://github.com/cosmic-cortex/fastAPI-ML-quickstart)**
 
 **[Docker Introduction](https://blog.boltops.com/2018/04/19/docker-introduction-tutorial)** 
