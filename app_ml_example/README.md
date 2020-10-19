@@ -63,7 +63,7 @@ your OS. The first step is create a Docker file.
 
 
 
-**[For more details](https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf)**
+**[Hout to deploy a ML](https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf)**
 
 **[FastAPI example](https://github.com/cosmic-cortex/fastAPI-ML-quickstart)**
 
